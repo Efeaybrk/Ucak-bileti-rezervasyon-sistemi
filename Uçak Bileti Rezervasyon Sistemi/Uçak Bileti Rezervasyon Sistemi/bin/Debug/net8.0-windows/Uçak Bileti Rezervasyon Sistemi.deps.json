@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uçak Bileti Rezervasyon Sistemi/1.0.0": {
+        "runtime": {
+          "Uçak Bileti Rezervasyon Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uçak Bileti Rezervasyon Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

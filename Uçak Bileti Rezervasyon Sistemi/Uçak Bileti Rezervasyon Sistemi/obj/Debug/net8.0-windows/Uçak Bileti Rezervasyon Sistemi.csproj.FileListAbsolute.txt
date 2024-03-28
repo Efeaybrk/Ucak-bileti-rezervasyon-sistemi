@@ -1,0 +1,17 @@
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.exe
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.deps.json
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.runtimeconfig.json
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.dll
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.pdb
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak_Bileti_Rezervasyon_Sistemi.Form1.resources
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak_Bileti_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.AssemblyInfoInputs.cache
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.AssemblyInfo.cs
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.dll
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\refint\Uçak Bileti Rezervasyon Sistemi.dll
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.pdb
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bileti Rezervasyon Sistemi.genruntimeconfig.cache
+C:\Users\Efe Ayberk\source\repos\Udemy Kurs\Uçak Bileti Rezervasyon Sistemi\Uçak Bileti Rezervasyon Sistemi\obj\Debug\net8.0-windows\ref\Uçak Bileti Rezervasyon Sistemi.dll
